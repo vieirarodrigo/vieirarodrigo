@@ -1,88 +1,88 @@
 <div align="center">
-  <h1>Oi!, sou o Rodrigo <img src=
-  "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  
-  <div>
-    <h2>Sobre mim</h2>
-  
-    <table>
-      <tr border="none">
-        <td width="50%" align="left">
-          - 🔭 Atualmente estou desenvolvendo um Sistema de Gestão Escolar.
-          - 🌱 Estou aprendendo `JS, `Next.js`, `Typescript`, `Styled Components` e `arquitetura de software`.
-          - 🤔 Quero participar da comunidade Open Source.
-          - ⚙️ Diariamente uso: `.js`, `.ts` e `.css`.
-        </td>
-      </tr>
-    </table>  
-  </div>
-  
-  <div>
-    <h1>Habilidades</h1>
-  
-    <table>
-      <tr>
-        <th>Linguagens</th>
-        <th>Ferramentas</th>
-      </tr>
-      <tr>
-        <td>
-          <img src="https://skillicons.dev/icons?i=html,css,ts,bash"/>
-        </td>
-        <td>
-          <img src="https://skillicons.dev/icons?i=nodejs,nextjs,jest,prisma,styledcomponents,supabase,vscode,sublime,git,github,vercel"/>
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-  <div>
-    <h2>Experiencia</h2>
+<h1>Oi!, sou o Rodrigo <img src=
+"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-    <table>
-      <tr>
-        <th>Cargo</th>
-        <th>Empresa</th>
-        <th>Período</th>
-      </tr>
-      <tr>
-        <td>Desenvolvedor Fullstack</td>
-        <td>Giraedu</td>
-        <td>Maio 2025 - Presente</td>
-      </tr>
-    </table>
-    <p>Última atualização 05/06/2025</p>
-  </div>
+<div>
+<h2>Sobre mim</h2>
 
-  <div>
-    <h2>Contato</h2>
-    
-    <p>
-     <a href="">
-       <img border="0" alt="Rodrigo Vieira Portifólio" src="">
-     </a>
-     
-     <a href="https://www.linkedin.com/in/">
-       <img border="0" alt="Rodrigo Vieira LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
-     </a>
-     
-     <a href="https://twitter.com/">
-       <img border="0" alt="Rodrigo Vieira Twitter" src="https://img.icons8.com/nolan/40/twitter.png"/>
-     </a>
+<table>
+<tr border="none">
+<td width="50%" align="left">
+- 🔭 Atualmente estou desenvolvendo um Sistema de Gestão Escolar.
+- 🌱 Estou aprendendo `JS, `Next.js`, `Typescript`, `Styled Components` e `arquitetura de software`.
+- 🤔 Quero participar da comunidade Open Source.
+- ⚙️ Diariamente uso: `.js`, `.ts` e `.css`.
+</td>
+</tr>
+</table>  
+</div>
 
-      <a href="https://www.instagram.com/">
-       <img border="0" alt="Rodrigo Vieira Instagram" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
-      </a>
+<div>
+<h1>Habilidades</h1>
 
-      <a href="https://discord.com/">
-       <img border="0" alt="Rodrigo Vieira Discord" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
-      </a>
-    
-      <a href="mailto:">
-       <img border="0" alt="Rodrigo Vieira Email" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
-      </a>
-    </p>
-  </div>
+<table>
+<tr>
+<th>Linguagens</th>
+<th>Ferramentas</th>
+</tr>
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,ts,bash"/>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,jest,prisma,styledcomponents,supabase,vscode,sublime,git,github,vercel"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<h2>Experiencia</h2>
+
+<table>
+<tr>
+<th>Cargo</th>
+<th>Empresa</th>
+<th>Período</th>
+</tr>
+<tr>
+<td>Desenvolvedor Fullstack</td>
+<td>Giraedu</td>
+<td>Maio 2025 - Presente</td>
+</tr>
+</table>
+<p>Última atualização 05/06/2025</p>
+</div>
+
+<div>
+<h2>Contato</h2>
+
+<p>
+<a href="">
+<img border="0" alt="Rodrigo Vieira Portifólio" src="">
+</a>
+
+<a href="https://www.linkedin.com/in/">
+<img border="0" alt="Rodrigo Vieira LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
+
+<a href="https://twitter.com/">
+<img border="0" alt="Rodrigo Vieira Twitter" src="https://img.icons8.com/nolan/40/twitter.png"/>
+</a>
+
+<a href="https://www.instagram.com/">
+<img border="0" alt="Rodrigo Vieira Instagram" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+</a>
+
+<a href="https://discord.com/">
+<img border="0" alt="Rodrigo Vieira Discord" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
+</a>
+
+<a href="mailto:">
+<img border="0" alt="Rodrigo Vieira Email" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+</a>
+</p>
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
 <br>
