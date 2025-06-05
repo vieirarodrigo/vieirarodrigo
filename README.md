@@ -8,9 +8,9 @@
 <table>
 <tr border="none">
 <td width="50%" align="left">
-- 🔭 Atualmente estou desenvolvendo um Sistema de Gestão Escolar.
-- 🌱 Estou aprendendo `JS, `Next.js`, `Typescript`, `Styled Components` e `arquitetura de software`.
-- 🤔 Quero participar da comunidade Open Source.
+- 🔭 Atualmente estou desenvolvendo um Sistema de Gestão Escolar.<br>
+- 🌱 Estou aprendendo `JS, `Next.js`, `Typescript`, `Styled Components` e `arquitetura de software`.<br>
+- 🤔 Quero participar da comunidade Open Source.<br>
 - ⚙️ Diariamente uso: `.js`, `.ts` e `.css`.
 </td>
 </tr>
@@ -59,7 +59,7 @@
 
 <p>
 <a href="">
-<img border="0" alt="Rodrigo Vieira Portifólio" src="">
+<img border="0" alt="Rodrigo Vieira Portifólio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
 </a>
 
 <a href="https://www.linkedin.com/in/">
