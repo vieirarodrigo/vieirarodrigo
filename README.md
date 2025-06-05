@@ -18,7 +18,7 @@
 </div>
 
 <div>
-<h1>Habilidades</h1>
+<h2>Habilidades</h2>
 
 <table>
 <tr>
@@ -37,7 +37,7 @@
 </div>
 
 <div>
-<h2>Experiencia</h2>
+<h2>Experiência</h2>
 
 <table>
 <tr>
