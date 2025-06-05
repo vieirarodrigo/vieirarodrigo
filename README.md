@@ -9,7 +9,7 @@
 <tr border="none">
 <td width="50%" align="left">
 - 🔭 Atualmente estou desenvolvendo um Sistema de Gestão Escolar.<br>
-- 🌱 Estou aprendendo `JS, `Next.js`, `Typescript`, `Styled Components` e `arquitetura de software`.<br>
+- 🌱 Estou aprendendo `JS`, `Next.js`, `Typescript`, `Styled Components` e `arquitetura de software`.<br>
 - 🤔 Quero participar da comunidade Open Source.<br>
 - ⚙️ Diariamente uso: `.js`, `.ts` e `.css`.
 </td>
