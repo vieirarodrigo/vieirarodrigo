@@ -1,136 +1,88 @@
-<h1 align="center">Hi!,  I'm Al-Amin <img src=
-"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-
-- 🔭 I’m currently working on `webgis` Development.
-- 🌱 I’m currently learning `webgl` and `threejs`
-- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- ⚙️ I use daily: `.js`, `.vue`, `.jsx`, `.css`, `.less`, `.ts`
-- 💬 Ping me about **vue**, **fullstack**, **development**, **design**
-
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-</tr>
-</table>
-
-
-
-
-<div align="Center">
-<h1>Skills</h1>
-</div>
-
-<div align="Center">
-
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
-
-</div>
-
-
-
-
-
-
-
-<table align="center">
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
+<div align="center">
+  <h1>Oi!, sou o Rodrigo <img src=
+  "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  
+  <div>
+    <h2>Sobre mim</h2>
+  
+    <table>
+      <tr border="none">
+        <td width="50%" align="left">
+          - 🔭 Atualmente estou desenvolvendo um Sistema de Gestão Escolar.
+          - 🌱 Estou aprendendo `JS, `Next.js`, `Typescript`, `Styled Components` e `arquitetura de software`.
+          - 🤔 Quero participar da comunidade Open Source.
+          - ⚙️ Diariamente uso: `.js`, `.ts` e `.css`.
+        </td>
+      </tr>
+    </table>  
+  </div>
+  
+  <div>
+    <h1>Habilidades</h1>
+  
+    <table>
+      <tr>
+        <th>Linguagens</th>
+        <th>Ferramentas</th>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://skillicons.dev/icons?i=html,css,ts,bash"/>
         </td>
         <td>
-          <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
-          <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
-          <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
-          <img src="https://i.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="45" alt="Angular logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript logo" />
-          <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="50" alt="Boostrap logo" />
-          <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
-          <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" width="50" alt="Symfony logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
+          <img src="https://skillicons.dev/icons?i=nodejs,nextjs,jest,prisma,styledcomponents,supabase,vscode,sublime,git,github,vercel"/>
         </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-          <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" alt="Tools gif">
-        </td>
-        <td>
-          <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git logo" />
-          <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" alt="Postman logo" />
-          <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="Bash logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="52" alt="Apache2 logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="52" alt="MariaDB logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="52" alt="Android Studio logo" />
-        </td>
-    </tr>
-</table>
+      </tr>
+    </table>
+  </div>
+  
+  <div>
+    <h2>Experiencia</h2>
 
+    <table>
+      <tr>
+        <th>Cargo</th>
+        <th>Empresa</th>
+        <th>Período</th>
+      </tr>
+      <tr>
+        <td>Desenvolvedor Fullstack</td>
+        <td>Giraedu</td>
+        <td>Maio 2025 - Presente</td>
+      </tr>
+    </table>
+    <p>Última atualização 05/06/2025</p>
+  </div>
 
-## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
+  <div>
+    <h2>Contato</h2>
+    
+    <p>
+     <a href="">
+       <img border="0" alt="Rodrigo Vieira Portifólio" src="">
+     </a>
+     
+     <a href="https://www.linkedin.com/in/">
+       <img border="0" alt="Rodrigo Vieira LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+     </a>
+     
+     <a href="https://twitter.com/">
+       <img border="0" alt="Rodrigo Vieira Twitter" src="https://img.icons8.com/nolan/40/twitter.png"/>
+     </a>
 
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
-| :-: | :-: | :-: |
-| Cloud DevOps Engineer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Present |
-| Open source mentor | [GSsoC](https://gssoc.girlscript.tech/) | Mar 2022 - May 2022 |
-| Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
-| Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
-| Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
+      <a href="https://www.instagram.com/">
+       <img border="0" alt="Rodrigo Vieira Instagram" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+      </a>
 
- Last Updated on 20/04/2024
-
-
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
- 
- 
-<br>
-
-<p align="center"><!-----Social Accounts------>
-
-<p align="center">
- <a href="">
- <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a>
-
- <a href="https://www.linkedin.com/in/alamin20/">
- 
- <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-
- <a href="https://twitter.com/">
- <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
- </a>
-
- <a href="https://www.instagram.com/">
- <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
- </a>
-
- <a href="https://t.me/alamin2me">
- <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
- </a>
-
- <a href="https://discord.com/invite/5RmW6dZKpe6">
- <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
- </a>
- <a href="mailto:alamin.contact24@gmail.com">
- <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
-</p>
-
-<br>
+      <a href="https://discord.com/">
+       <img border="0" alt="Rodrigo Vieira Discord" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
+      </a>
+    
+      <a href="mailto:">
+       <img border="0" alt="Rodrigo Vieira Email" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+      </a>
+    </p>
+  </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
 <br>
@@ -300,5 +252,14 @@ h3 align="left">Achievements:</h3>
 <div align="center">
   
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=15206662)
+
+</div>
+
+
+
+
+
+
+
 
 </div>
