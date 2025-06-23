@@ -8,7 +8,7 @@
 <table>
 <tr border="none">
 <td width="50%" align="left">
-- 🔭 Atualmente estou desenvolvendo um Sistema de Gestão Escolar.<br>
+- 🔭 Atualmente estou desenvolvendo um Sistema de Gestão Escolar e um PDV para restaurantes.<br>
 - 🌱 Estou aprendendo `JS`, `Next.js`, `Typescript`, `Styled Components` e `arquitetura de software`.<br>
 - 🤔 Quero participar da comunidade Open Source.<br>
 - ⚙️ Diariamente uso: `.js`, `.ts` e `.css`.
@@ -50,8 +50,14 @@
 <td>Giraedu</td>
 <td>Maio 2025 - Presente</td>
 </tr>
+<tr>
+<td>Desenvolvedor Fullstack</td>
+<td>Cheffia</td>
+<td>Maio 2025 - Presente</td>
+</tr>
+
 </table>
-<p>Última atualização 05/06/2025</p>
+<p>Última atualização 23/06/2025</p>
 </div>
 
 <div>
@@ -84,6 +90,8 @@
 </p>
 </div>
 
+<!--
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
 <br>
 
@@ -110,33 +118,19 @@
   </a>
 </p>
 
+-->
 
 <br>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=id1945" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=id1945" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)
-  
-  ![GitHub stats](https://raw.githubusercontent.com/id1945/id1945/master/profile-3d-contrib/profile-night-green.svg)
-</div>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
+<div>
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=vieirarodrigo" height="150" alt="stats graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=vieirarodrigo" height="150" alt="languages graph"  />
+<img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vieirarodrigo&theme=dracula&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+</div>
 
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-babu&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-babu&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-
-
-
-
-
+<!-- 
 
 h3 align="left">Achievements:</h3>
 
@@ -147,12 +141,11 @@ h3 align="left">Achievements:</h3>
 
 <br>
 
+-->
 
+<!--
 
-
-
-
-<h2>📚 | Education</h2>
+<h2>📚 | Foramação</h2>
 <p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
 
 <div align="center">
@@ -183,70 +176,9 @@ h3 align="left">Achievements:</h3>
   </table>
 </div>
 
+-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ashu-guo&theme=chartreuse-dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-guo&theme=chartreuse-dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashu-guo&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-
-<p >
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- 
 <h1 align="center">My stackoverflow Profile</h1>
 
 <div align="center">
@@ -255,11 +187,4 @@ h3 align="left">Achievements:</h3>
 
 </div>
 
-
-
-
-
-
-
-
-</div>
+-->
